@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HotmailHarmony](https://github.com/deteto747chudo/HotmailHarmony)
 
-- 🌱 I’m currently learning **Advanced Python, Data Algorithm, Expert Structures**
+- 🌱 I’m currently learning **Linux, Bash, CyberSecurity, Web Penetration**
 
 - 🔭 I’m currently working on [Twitch Miner Server Chain](https://twitchmonitoring.rf.gd)
 
