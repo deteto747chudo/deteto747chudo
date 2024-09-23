@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deteto747chudo&label=Profile%20views&color=0e75b6&style=flat" alt="deteto747chudo" /> </p>
 
+- ✉️ If you want to hit my up -> discord : detetochudo.mp4
+
 - 🔭 I’m currently working on [HotmailHarmony](https://github.com/deteto747chudo/HotmailHarmony)
 
 - 🌱 I’m currently learning **Linux, Bash, CyberSecurity, Web Penetration**
