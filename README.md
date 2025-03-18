@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">I'm Denislav from Bulgaria<br><br>- 🔭 I’m working as Chain VPS Developer<br>- 📚 I'm currently learning AI Predictions<br>- ⚡ I'm currently working on Twitch Miner Server Automations</p>
+<p align="center">I'm Denislav from Bulgaria<br><br>- 🔭 I’m working on Chain VPS<br>- 📚 I'm currently learning AI Predictions<br>- ⚡ I'm currently working on Twitch Miner Server Automations</p>
 
 ###
 
